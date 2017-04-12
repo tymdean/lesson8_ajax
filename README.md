@@ -10,11 +10,10 @@ April 12th, 2017
 Tyler Dean 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project we had to understand the concepts of JSON, AJAX, and API's to update a movie database program with new information. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tymdean.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. In lesson 8 I learned about JSON whcih stands for JavaScript Object Notation. It's a lightweight format that is easy for humans to understand. 
