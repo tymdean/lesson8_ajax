@@ -4,10 +4,10 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 12th, 2017 
 
 ### Student Name:  
-(First and Last Name)
+Tyler Dean 
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,6 +17,6 @@ LIS 2360:  Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In lesson 8 I learned about JSON whcih stands for JavaScript Object Notation. It's a lightweight format that is easy for humans to understand. 
+2. In lesson 8 I learned about application-programming interface or API, a set of programming instructions and standards for accessing a Web-based software. 
+3. In lesson 8 I learned about AJAX which is an acronym for Asynchronous JavaScript. It allows us to load data from the server without a browser page refresh. 
